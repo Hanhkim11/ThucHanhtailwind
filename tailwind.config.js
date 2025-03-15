@@ -3,6 +3,15 @@ export default {
   content: ["./**/*.{html,js}"],
   theme: {
     extend: {
+      backgroundImage: {
+        "orange-gradient-1":
+          "radial-gradient(50% 50% at 50% 50%, #ff9831 0%, #fe330a 100%)",
+        "orange-gradient-2":
+          "radial-gradient(50% 50% at 50% 50%, #fe330a 0%, #ff9831 100%)",
+      },
+      blur: {
+        55: "55px",
+      },
       colors: {
         hr: "#dbd6cf",
         bgGray: "#efeae3",
