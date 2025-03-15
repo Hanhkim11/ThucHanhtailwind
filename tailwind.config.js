@@ -15,7 +15,7 @@ export default {
         rigtToLeft: "rigtToLeft 20s linear infinite",
       },
       gridTemplateColumns: {
-        custom: "26% 20% 20% 20%",
+        custom: "30% 20% 20% 20%",
       },
       keyframes: {
         "ping-slow": {
