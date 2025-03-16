@@ -3213,11 +3213,6 @@ video {
   border-color: rgb(254 51 10 / var(--tw-border-opacity, 1));
 }
 
-.group:hover .group-hover\:bg-\[\#fe330a\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(254 51 10 / var(--tw-bg-opacity, 1));
-}
-
 .group:hover .group-hover\:text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
